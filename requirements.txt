@@ -1,9 +1,7 @@
-
+joblib
 numpy
 pandas
 scikit-learn
 streamlit
 shap
-joblib
-matplotlib
-seaborn
+
